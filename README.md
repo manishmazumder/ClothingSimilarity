@@ -1,2 +1,2 @@
 # ClothingSimilarity
-This is a project to find similar Clothing items based on user input text. This will use Machine Learning techniques to find similar products from different websites.
+The goal of this project is to create a machine learning model capable of receiving text describing a clothing item and returning a ranked list of links to similar items from different websites.
